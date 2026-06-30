@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MM.IT.Common", "MM.IT.Commo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MM.IT.Core.Api", "MM.IT.Core.Api\MM.IT.Core.Api.csproj", "{3CEFA797-4D03-4F6D-8B7B-C6984F595710}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MM.IT.Optiyol.Api", "MM.IT.Optiyol.Api\MM.IT.Optiyol.Api.csproj", "{59963ECA-925A-4C34-BA44-4004D5B89F93}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MM.IT.Optiyol.Api", "MMIT.Optiyol.Api\MM.IT.Optiyol.Api.csproj", "{59963ECA-925A-4C34-BA44-4004D5B89F93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
