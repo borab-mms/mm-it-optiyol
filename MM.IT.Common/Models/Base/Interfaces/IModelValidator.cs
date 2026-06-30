@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MM.IT.Common.Models.Base.Interfaces;
+
+/// <summary>
+/// Dummy Interface for inject Model Validators
+/// </summary>
+public interface IPmModelValidator
+{
+
+}
