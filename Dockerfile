@@ -23,7 +23,7 @@ COPY . .
 # Build & Publish
 RUN dotnet publish MMIT.Optiyol.Api/MM.IT.Optiyol.Api.csproj \
     -c Release \
-    -o /app/publish \
+    -o /app/publish 
 
 # Runtime Stage
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
